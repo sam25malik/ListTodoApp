@@ -1,0 +1,35 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+<item name="android:colorAccent">#0277BD</item>
+<item name="android:colorBackground">#80DEEA</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+    <style name="BeatBoxButton">
+        <item name="android:textColor">#D50000</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:background">#0D47A1</item>
+
+    </style>
+
+    <style name="EditStyle">
+        <item name="android:background">#0D47A1</item>
+
+    </style>
+
+    <style name="ToolStyle">
+        <item name="android:background">#E65100</item>
+
+    </style>
+
+
+    <style name="AppTheme3" parent="android:Theme.Material">
+
+    </style>
+    <style name="AppTheme2" parent="ThemeOverlay.AppCompat.ActionBar">
+
+    </style>
+
+
+</resources>
